@@ -57,3 +57,42 @@
 # print(f'\n\nmi lista insert es : {mi_lista_insert}')
 
 ################################################################################
+
+
+# mi_lista = [1, 2 , 5 , 2 , 1]
+# wao = 0
+
+# for i in mi_lista:
+#     wao += i
+
+# print(f'la suma es : {wao}')
+
+
+# eso = [2, 4, 3 , 1, 5]  
+# yes = 0
+# for i in range(len(eso)) :
+#     yes += eso[i]
+
+# print(f'la suma de los valores es : {yes}')
+
+# listado = [3, 4 ,2 ,3,2]
+# suma = 0
+# multiplicacion = 1
+# for i in listado:
+#     suma += i
+#     multiplicacion *= i
+#     print(suma,end="--")
+
+# print(f'\n\nla suma es {suma}')
+# print(f'\nla multiplicacion es {multiplicacion}')
+
+listado = [1,2 , 4, 5 , 9, 10]
+suma = 0
+multiplicacion = 1
+for i in range(len(listado)):
+    suma += listado[i]
+    multiplicacion *= listado[i]
+    # print(suma,end='--')
+    # print(multiplicacion, end='**')
+
+print(f' la multiplicacion es : {multiplicacion}', end="**")
