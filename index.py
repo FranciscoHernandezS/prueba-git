@@ -112,5 +112,28 @@
 
 # print(f'\nmi nueva lista es {mi_lista}')
 
+# beatles = []
 
+# beatles.append("John Lennon")
+# beatles.append("Paul McCartney")
+# beatles.append("George Harrison")
 
+# print(f'la lista hasta ahora es : {beatles}')
+
+# for i in range(2):
+#     nuevo = input("ingrese el nuevo integrante : ")
+#     beatles.append(nuevo)
+
+# print(f'\nahora la lista es : {beatles}')
+
+# del beatles[-1]
+# del beatles[-1]
+
+# print(f'\ncon los integrantes que hemos sacado  es : {beatles}')
+
+# beatles.insert(0, "Ringo Starr")
+
+# print(f'el conjunto final es : {beatles}')
+# print(f'la cantidad final de integrantes es : {len(beatles)}')
+
+############################################################################################################################
