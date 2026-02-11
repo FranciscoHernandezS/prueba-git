@@ -102,3 +102,12 @@
 # mi_lista[0], mi_lista[4] = mi_lista[4] , mi_lista[0]
 
 # print(f'la nueva lista es : {mi_lista}')
+
+mi_lista = [1, 2 , 3 , 4 , 5]
+longitud = len(mi_lista)
+print(f'mi lista es : {mi_lista}')
+
+for i in range(longitud // 2):
+    mi_lista[i] , mi_lista[longitud - i - 1] = mi_lista[longitud - i - 1] , mi_lista[i]
+
+print(f'\nmi nueva lista es {mi_lista}')
