@@ -113,3 +113,20 @@ for i in range(len(listado)):
 # mi_lista = [1, 'a', ["lista", 64, [0,1], False]]
 
 ###############################################################################
+
+# mi_lista = [1, 2, 3, 4]
+# print(mi_lista)
+# del mi_lista[2]
+# print(f'\nmi nueva lista es {mi_lista}')
+# del mi_lista
+
+
+# mi_lista = ["blanco", "morado", "azul", 'amarillo', 'verde']
+
+# for color in mi_lista:
+#     print(color, end="--")
+
+# print(f'\n\nla longitud de la lista es : {len(mi_lista)}')
+
+# del mi_lista[2]
+# print(f'\n\n despues de borrar un elemento mi longitud es : {len(mi_lista)}')
