@@ -130,3 +130,27 @@ for i in range(len(listado)):
 
 # del mi_lista[2]
 # print(f'\n\n despues de borrar un elemento mi longitud es : {len(mi_lista)}')
+
+############################################################
+
+# lista = [1, 2, 3, 4, 5]
+# print(f'lista actual es : {lista}')
+# lista.insert(1,6)
+# print(f'\nla lista con insert es : {lista}')
+# del lista[0]
+# lista.append(1)
+# print(f'\nlista con del y append es : {lista}')
+
+# lista = [1, 2, 3, 4, 5]
+
+# lista_2 = []
+# suma = 0
+
+# for i in lista:
+#     suma += i
+#     lista_2.append(suma)
+
+# print(lista_2)
+
+
+
