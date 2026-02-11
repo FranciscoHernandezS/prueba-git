@@ -96,3 +96,7 @@ for i in range(len(listado)):
     # print(multiplicacion, end='**')
 
 # print(f' la multiplicacion es : {multiplicacion}', end="**")
+
+mi_lista = [1, None, True, "Soy un string" , 256, 0]
+
+print(f'la posicion 3 de la lista es , {mi_lista[3]}')
