@@ -95,4 +95,4 @@ for i in range(len(listado)):
     # print(suma,end='--')
     # print(multiplicacion, end='**')
 
-print(f' la multiplicacion es : {multiplicacion}', end="**")
+# print(f' la multiplicacion es : {multiplicacion}', end="**")
