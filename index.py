@@ -86,13 +86,14 @@
 # print(f'\n\nla suma es {suma}')
 # print(f'\nla multiplicacion es {multiplicacion}')
 
-listado = [1,2 , 4, 5 , 9, 10]
-suma = 0
-multiplicacion = 1
-for i in range(len(listado)):
-    suma += listado[i]
-    multiplicacion *= listado[i]
-    # print(suma,end='--')
-    # print(multiplicacion, end='**')
+# listado = [1,2 , 4, 5 , 9, 10]
+# suma = 0
+# multiplicacion = 1
+# for i in range(len(listado)):
+#     suma += listado[i]
+#     multiplicacion *= listado[i]
+#     # print(suma,end='--')
+#     # print(multiplicacion, end='**')
 
-print(f' la multiplicacion es : {multiplicacion}', end="**")
+# print(f' la multiplicacion es : {multiplicacion}', end="**")
+
