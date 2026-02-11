@@ -97,3 +97,8 @@
 
 # print(f' la multiplicacion es : {multiplicacion}', end="**")
 
+mi_lista = [1, 2 ,3 , 4 , 5]
+
+mi_lista[0], mi_lista[4] = mi_lista[4] , mi_lista[0]
+
+print(f'la nueva lista es : {mi_lista}')
