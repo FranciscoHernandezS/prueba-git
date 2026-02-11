@@ -97,6 +97,19 @@ for i in range(len(listado)):
 
 # print(f' la multiplicacion es : {multiplicacion}', end="**")
 
-mi_lista = [1, None, True, "Soy un string" , 256, 0]
+# mi_lista = [1, None, True, "Soy un string" , 256, 0]
 
-print(f'la posicion 3 de la lista es , {mi_lista[3]}')
+# print(f'la lista original es : {mi_lista}')
+# print(f'\nla posicion 3 de la lista es , {mi_lista[3]}')
+# print(mi_lista[-1])
+
+# mi_lista[1] ='?'
+# print(f'\n\nla lista actualizada es : {mi_lista}')
+
+# mi_lista.insert(0, "primero")
+# mi_lista.append("ultimo")
+# print(f'\nlista con insert y append : {mi_lista}')
+
+# mi_lista = [1, 'a', ["lista", 64, [0,1], False]]
+
+###############################################################################
